@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="home_title">Weather</string>
+    <string name="search_title">City Search</string>
+    <string name="search_hint">City</string>
+    <string name="details_title">Weather Details</string>
+    <string name="current_weather_title">Now</string>
+    <string name="details_hourly_forecast">Hourly forecast</string>
+    <string name="details_daily_forecast">Daily forecast</string>
+
+    <string name="action_add_city">Add city</string>
+    <string name="action_back">Back</string>
+    <string name="action_open_search">Choose city</string>
+    <string name="action_open_details">Open details</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete_city">Delete city</string>
+
+    <string name="empty_city_list">No cities added yet</string>
+    <string name="home_placeholder">Saved cities will be shown here</string>
+
+    <string name="error_city_not_found">Nothing found</string>
+    <string name="error_city_search_server">Server error: %1$d</string>
+    <string name="error_city_search_network">Internet connection problem</string>
+    <string name="error_city_search_generic">Failed to search for a city</string>
+    <string name="error_city_search_missing_api_key">Add the Api-Ninjas API key to local.properties</string>
+    <string name="error_weather_load">Failed to load weather</string>
+
+    <string name="weather_humidity">Humidity: %1$d%%</string>
+    <string name="weather_wind">Wind: %1$.1f m/s</string>
+    <string name="weather_temperature">%1$d°C</string>
+    <string name="weather_temperature_short">%1$d°</string>
+    <string name="weather_temperature_range">Max: %1$d°C, Min: %2$d°C</string>
+
+    <string name="weather_code_clear">Clear</string>
+    <string name="weather_code_mostly_clear">Mostly clear</string>
+    <string name="weather_code_partly_cloudy">Partly cloudy</string>
+    <string name="weather_code_overcast">Overcast</string>
+    <string name="weather_code_fog">Fog</string>
+    <string name="weather_code_drizzle">Drizzle</string>
+    <string name="weather_code_rain">Rain</string>
+    <string name="weather_code_snow">Snow</string>
+    <string name="weather_code_showers">Showers</string>
+    <string name="weather_code_thunderstorm">Thunderstorm</string>
+    <string name="weather_code_unknown">Unknown</string>
+</resources>
